@@ -20,6 +20,8 @@
 - 🗣️ Learning **Japanese (N5 Level)**
 - ⚡ Fun fact: Team Lead for "Alice Crazy Team" — from esports to hackathons!
 
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -30,12 +32,16 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 </p>
 
+---
+
 **Web & Database**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
+
+---
 
 **Tools & Platforms**
 <p>
@@ -44,6 +50,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
+
+---
 
 ### 📜 Certifications
 
@@ -55,11 +63,15 @@
 - Java & OOP Concepts — CodeChef
 - HTML/CSS & Web Development — CodeChef
 
+---
+
 ### 🏆 Achievements
 
 - 🥇 First Place — University-Level Badminton Tournament
 - 🥉 Third Place — Esports Tournament (Alice Crazy Team), SVKM 2025
 - 🏁 Technovate'26 Hackathon Participant (RAIT, 2026) — Team Lead, led development of a Notion-inspired collaboration platform
+
+---
 
 ### 🌐 Languages
 
