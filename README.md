@@ -45,14 +45,6 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
 
-### 🚀 Featured Projects
-
-**🌾 Smart Agriculture System**
-IoT-based agriculture monitoring system with automated irrigation control based on soil moisture. Includes a real-time dashboard for monitoring and analytics — reduced water wastage through smart decisions.
-
-**📝 Notion-Inspired Productivity App**
-Full-stack productivity and note management platform with rich text editing, hierarchical pages, responsive UI, authentication, and cloud-based storage.
-
 ### 📜 Certifications
 
 - Agentic AI Workshop Certified
