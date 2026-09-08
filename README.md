@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Soham Khairnar 👋</h1>
 
 <p align="center">
-  <em>Second-year IT student building scalable software & AI-powered applications</em>
+  <em>IT student building scalable software & AI-powered applications</em>
 </p>
 
 <p align="center">
