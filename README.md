@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/sohamkhairnar-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:soham27khairnar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Pune,%20Maharashtra-333333?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://leetcode.com/u/iyQi2L9LrQ/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>>
 </p>
 
 ---
